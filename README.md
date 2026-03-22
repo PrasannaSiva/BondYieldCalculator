@@ -6,7 +6,7 @@ React Native app for bond yield analysis and cash flow scheduling.
 
 ## Demo
 
-[Watch Demo](your-link-here)
+https://drive.google.com/file/d/1aqvXZ9-dhTNdHyl8DMWG6rlTtx60elE1/view?usp=drive_link
 
 ---
 
