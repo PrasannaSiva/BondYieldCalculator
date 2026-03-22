@@ -51,7 +51,7 @@ src/
 
 ## Stack
 
-- React Native 0.73
+- React Native 0.84.1
 - TypeScript
 - React Navigation
 - AsyncStorage
